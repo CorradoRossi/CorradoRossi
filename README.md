@@ -3,7 +3,7 @@
 [![website badge](https://img.shields.io/badge/motorossi.me-gray?style=flat&logo=openlayers)](https://motorossi.me)
 [![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)
 [![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
-[![medium badge](https://img.shields.io/badge/@corradorossui-black?style=flat&logo=medium)](https://medium.com/@corradorossi)
+[![medium badge](https://img.shields.io/badge/@corradorossi-black?style=flat&logo=medium)](https://medium.com/@corradorossi)
 
 - 🔭 I'm currently **working on building more collaborative and inclusive conversations on top of Zoom with @macrohq.**
 - 🌱 I'm currently learning **Typescript, Python, and jazz guitar.**  
