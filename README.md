@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Rossi!
 
-<!--
-**CorradoRossi/CorradoRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website badge](https://img.shields.io/badge/motorossi.me-gray?style=flat&logo=openlayers)](https://motorossi.me)
+[![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)
+[![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
+[![medium badge](https://img.shields.io/badge/@corradorossui-black?style=flat&logo=medium)](https://medium.com/@corradorossi)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently **working on building more collaborative and inclusive conversations on top of Zoom with @macrohq.**
+- 🌱 I'm currently learning **Typescript, Python, and jazz guitar.**  
+- 👯 I’m looking to collaborate on **anything that will tip the scales and put the world in a better place.**
+- 🤔 I’m looking for help with **understanding the human condition, creating work life balance.**
+- 💬 Ask me about **my love of seaweed, sardines, and flax seed crackers for breakfast.**
+- 📫 How to reach me: [Twitter](https://twitter.com/metastash)
+- ⚡ Fun fact: **I grew up on a sailboat in the Carribbean!**
