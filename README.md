@@ -9,5 +9,5 @@
 - 🌱 I was most recently **building the future of meetings with @macrohq where I remain an advisor!**
 - 🤔 I’m looking for **places and people with whom I can collaborate and co-create awesome communities!**
 - 💬 Ask me about **my collection of Kiesel Allan Holdsworth headless electric guitars!**
-- - ⚡ Fun fact: **I grew up on a sailboat in the Carribbean!**
-- 📫 How to reach me: DM's are open on [Twitter as @metastash](https://twitter.com/metastash)!
+- ⚡ Fun fact: **I grew up on a sailboat in the Carribbean!**
+- 📫 How to reach me: DM's are open on Twitter as [@metastash](https://twitter.com/metastash)!
