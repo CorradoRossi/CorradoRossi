@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
 [![medium badge](https://img.shields.io/badge/@corradorossi-black?style=flat&logo=medium)](https://medium.com/@corradorossi)
 
-- 🔭 I'm currently **working at the intersection of social and web3 with @tryShowtime!**
+- 🔭 I'm currently **working on crypto and tokenization projects at the intersection of social and web3!**
 - 🌱 Before that I was **building the future of collaboration with @macrohq where I remain an advisor!**
 - 🤔 I’m excited about **building participating in and contributing to meaningful communities!**
 - 💬 Ask me about **my collection of Kiesel Allan Holdsworth headless electric guitars!**
