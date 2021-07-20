@@ -7,7 +7,7 @@
 [![twitter badge](https://img.shields.io/twitter/follow/metastash?label=Metastash)](https://twitter.com/metastash)-->
 [![website badge](https://img.shields.io/badge/linktree-3bdf9b?style=flat&logo=linktree&logoColor=ffffff)](https://linktr.ee/rssi)
 <br/>
-[![website badge](https://img.shields.io/badge/rssi.dev-5c5e9c?style=flat&logo=rstudio&logoColor=ffffff)](https://rssi.dev)
+[![website badge](https://img.shields.io/badge/rssi.dev-5c5e9c?style=flat&logo=rakuten&logoColor=ffffff)](https://rssi.dev)
 <br/>
 [![website badge](https://img.shields.io/badge/metastash.xyz-cd284c?style=flat&logo=spreadshirt&logoColor=ffffff)](https://metastash.xyz)
 <br/>
