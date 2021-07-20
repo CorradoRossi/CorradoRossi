@@ -17,8 +17,8 @@
 - 🤔 Passionate about: **building and participating in the future of art finance and society**
 - 💬 Ask me about: ***literally anything*, there's very little that doesn't fascinate me 😂**
 - ⚡ Fun fact: **grew up on a 32' sloop in the Carribbean, was once shipwrecked in the Bermuda triangle 😱**
-- 🎨 Unabashed **lover of the ETH ecosystem and proponent of NFT's: check my collection on[Opensea](https://opensea.io/rssi)**
-- 💰 Creator of **the *$STASH* token, the Metastash vault, and the [Metastash community](https://discord.gg/NpUGsCS6q6)**
+- 🎨 Unabashed **lover of the ETH ecosystem and proponent of NFT's: check my collection on [Opensea](https://opensea.io/rssi)**
+- 💰 Creator of **the [*$STASH*](https://etherscan.io/token/0xd3a3ca33c1aafeffa5c3be0d821210dba2c058d3) token, the Metastash vault, and the [Metastash community](https://discord.gg/NpUGsCS6q6)**
 - 🤘 **Punk [#8022](https://www.larvalabs.com/cryptopunks/accountInfo?account=0x90c19fea1ef7beba9274217431f148094795b074) since 12/03/2017**
 - 📫 Give a shout: **DM's are open [@metastash](https://twitter.com/metastash)**
 
