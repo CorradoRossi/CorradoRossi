@@ -4,6 +4,8 @@
 [![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
 [![website badge](https://img.shields.io/github/last-commit/CorradoRossi/metastash)](https://rssi.dev)
 [![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)-->
+[![website badge](https://img.shields.io/badge/linktree-3bdf9b?style=flat&logo=linktree&logoColor=ffffff)](https://linktr.ee/rssi)
+<br/>
 [![website badge](https://img.shields.io/badge/rssi.dev-5c5e9c?style=flat&logo=openlayers)](https://rssi.dev)
 <br/>
 [![website badge](https://img.shields.io/badge/metastash.xyz-cd284c?style=flat&logo=crystal)](https://metastash.xyz)
