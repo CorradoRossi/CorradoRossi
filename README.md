@@ -3,16 +3,17 @@
 <!--[![discord badge](https://img.shields.io/badge/Metastash-5866f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/NpUGsCS6q6)
 [![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
 [![website badge](https://img.shields.io/github/last-commit/CorradoRossi/metastash)](https://rssi.dev)
-[![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)-->
+[![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)
+[![twitter badge](https://img.shields.io/twitter/follow/metastash?label=Metastash)](https://twitter.com/metastash)-->
 [![website badge](https://img.shields.io/badge/linktree-3bdf9b?style=flat&logo=linktree&logoColor=ffffff)](https://linktr.ee/rssi)
 <br/>
 [![website badge](https://img.shields.io/badge/rssi.dev-5c5e9c?style=flat&logo=openlayers)](https://rssi.dev)
 <br/>
 [![website badge](https://img.shields.io/badge/metastash.xyz-cd284c?style=flat&logo=crystal)](https://metastash.xyz)
 <br/>
-[![twitter follow](https://img.shields.io/twitter/follow/metastash?label=Metastash)](https://twitter.com/metastash)
-<br/>
-[![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=ffffff&logo=discord&label=Metastash&style=social)](https://discord.gg/NpUGsCS6q6)
+![Twitter Follow](https://img.shields.io/twitter/follow/metastash?label=Metastash&color=1da1f1&labelColor=1da1f1&logo=twitter&logoColor=ffffff&style=flat)
+<br>
+[![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=5866f2&logo=discord&logoColor=ffffff&label=Metastash)](https://discord.gg/NpUGsCS6q6)
 
 - 🔭 Currently: **cowboy coder 🤠, web3 strategist and consultant to *brands you use***
 - 🌱Previously: **[@tryshowtime](https://tryshowtime.com), [@macrohq](https://macro.io), [@artesian](https://artesianbuilds.com) (curr. advisor @macrohq)**
