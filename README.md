@@ -13,8 +13,8 @@
 [![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=ffffff&logo=discord&label=Metastash&style=social)](https://discord.gg/NpUGsCS6q6)
 
 - 🔭 Currently **cowboy coder 🤠, web3 and crypto strategist and consultant to *brands you use***
-- 🌱Previously **engineering @tryshowtime engineering @macrohq (remain an advisor @macrohq)**
-- 🤔 Excited about **building and participating in the future of art finance and society**
+- 🌱Previously **[@tryshowtime](https://tryshowtime.com), [@macrohq](https://macro.io), [@Artesian](https://artesianbuilds.com) (curr. advisor @macrohq)**
+- 🤔 Passionate about **building and participating in the future of art finance and society**
 - 💬 Ask me about ***literally anything*, there's very little that doesn't fascinate me 😂**
 - ⚡ Fun fact: **grew up on a 32' sloop in the Carribbean, was once shipwrecked in the Bermuda triangle 😱**
 - 🎨 Unabashed **proponent of NFT's and lover of the ETH ecosystem: check my [Opensea collection](https://opensea.io/rssi)**
