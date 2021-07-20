@@ -6,13 +6,9 @@
 [![dribbble badge](https://img.shields.io/badge/@corradorossi-pink?style=flat&logo=dribbble)](https://dribbble.com/corradorossi)
 [![twitter badge](https://img.shields.io/twitter/follow/metastash?label=Metastash)](https://twitter.com/metastash)-->
 [![website badge](https://img.shields.io/badge/linktree-3bdf9b?style=flat&logo=linktree&logoColor=ffffff)](https://linktr.ee/rssi)
-<br/>
 [![website badge](https://img.shields.io/badge/rssi.dev-5c5e9c?style=flat&logo=rakuten&logoColor=ffffff)](https://rssi.dev)
-<br/>
 [![website badge](https://img.shields.io/badge/metastash.xyz-cd284c?style=flat&logo=spreadshirt&logoColor=ffffff)](https://metastash.xyz)
-<br/>
 ![Twitter Follow](https://img.shields.io/twitter/follow/metastash?label=Metastash&color=1da1f1&labelColor=1da1f1&logo=twitter&logoColor=ffffff&style=flat)
-<br>
 [![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=5866f2&logo=discord&logoColor=ffffff&label=Metastash)](https://discord.gg/NpUGsCS6q6)
 
 - 🔭 Currently: **cowboy coder 🤠, web3 strategist and consultant to *brands you use***
