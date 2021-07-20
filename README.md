@@ -12,13 +12,14 @@
 <br/>
 [![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=ffffff&logo=discord&label=Metastash&style=social)](https://discord.gg/NpUGsCS6q6)
 
-- 🔭 Currently **cowboy coder 🤠, web3 consultant and crypto strategist for *brands you use***
+- 🔭 Currently **cowboy coder 🤠, web3 and crypto strategist and consultant to *brands you use***
 - 🌱Previously **engineering @tryshowtime engineering @macrohq (remain an advisor @macrohq)**
 - 🤔 Excited about **building and participating in the future of art finance and society**
-- 💬 Ask me about **literally anything, there's very little that doesn't fascinate me 😂**
+- 💬 Ask me about ***literally anything*, there's very little that doesn't fascinate me 😂**
 - ⚡ Fun fact: **grew up on a 32' sloop in the Carribbean, was once shipwrecked in the Bermuda triangle 😱**
 - 🎨 Unabashed **proponent of NFT's and lover of the ETH ecosystem: check my [Opensea collection](https://opensea.io/rssi)**
 - 💰 Creator of **the $STASH token, the Metastash vault, and the [Metastash community](https://discord.gg/NpUGsCS6q6)**
+- 🤘 Punk [#8022](https://www.larvalabs.com/cryptopunks/accountInfo?account=0x90c19fea1ef7beba9274217431f148094795b074) since **12/03/2017**
 - 📫 Give a shout: **Twitter DM's are open [@metastash](https://twitter.com/metastash)**
 
 ```
