@@ -12,7 +12,7 @@
 <br/>
 [![discord badge](https://img.shields.io/discord/829372121557762098?color=5866f2&labelColor=ffffff&logo=discord&label=Metastash&style=social)](https://discord.gg/NpUGsCS6q6)
 
-- 🔭 Currently: **cowboy coder 🤠, web3 and crypto strategist and consultant to *brands you use***
+- 🔭 Currently: **cowboy coder 🤠, web3 strategist and consultant to *brands you use***
 - 🌱Previously: **[@tryshowtime](https://tryshowtime.com), [@macrohq](https://macro.io), [@artesian](https://artesianbuilds.com) (curr. advisor @macrohq)**
 - 🤔 Passionate about: **building and participating in the future of art finance and society**
 - 💬 Ask me about: ***literally anything*, there's very little that doesn't fascinate me 😂**
