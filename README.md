@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rossi!
+### Heyoo 👋!
 
 <!--[![discord badge](https://img.shields.io/badge/Metastash-5866f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/NpUGsCS6q6)
 [![twitter badge](https://img.shields.io/badge/@metastash-blue?style=flat&logo=twitter)](https://twitter.com/metastash)
@@ -30,3 +30,4 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
                                                          
 ```
+ETH: rssi.eth || 0x90c19feA1eF7BEBA9274217431F148094795B074
